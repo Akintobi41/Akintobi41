@@ -33,7 +33,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Flexbox" width="40" height="40"/>
   </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://code.visualstudio.com/opengraphimg/opengraph-home.png" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/microsoft/vscode/main/resources/linux/code.png" alt="Visual Studio Code" width="40" height="40"/>
   </a>
    <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/16972765?s=200&v=4" alt="Lighthouse" width="40" height="40"/>
