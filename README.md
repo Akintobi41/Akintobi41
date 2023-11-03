@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Github,etc.**
+- 💬 Ask me about **CSS, JavaScript or React,etc.**
 
 - 📫 How to reach me **akintobi41moyinoluwa@gmail.com**
 
@@ -23,4 +23,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+   <a href="https://www.contentful.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.contentful.com/static/9761c8f22e393305c83136a0e2980a83/fb456/contentful.svg" alt="Contentful" width="40" height="40"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Flexbox" width="40" height="40"/>
+  </a>
+   <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/16972765?s=200&v=4" alt="Lighthouse" width="40" height="40"/>
   </a>
