@@ -24,8 +24,8 @@
   </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-   <a href="https://www.contentful.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.contentful.com/static/9761c8f22e393305c83136a0e2980a83/fb456/contentful.svg" alt="Contentful" width="40" height="40"/>
+ <a href="https://www.contentful.com/" target="_blank" rel="noreferrer">
+    <img src="https://via.placeholder.com/40" alt="Contentful" width="40" height="40"/>
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
