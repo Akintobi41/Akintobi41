@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akin</h1>
-<h3 align="center">A passionate Frontend Developer from Lagos, Nigeria.</h3>
+<h3 align="center">A Frontend Developer from Lagos, Nigeria.</h3>
 
 <p align="left"> <a href="https://twitter.com/zeke_aa" target="blank"><img src="https://img.shields.io/twitter/follow/zeke_aa?logo=twitter&style=for-the-badge" alt="zeke_aa" /></a> </p>
 
