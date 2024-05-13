@@ -41,3 +41,10 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
+  <a href="https://appwrite.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://appwrite.io/images/logo-dark.svg" alt="Appwrite Logo" width="40" height="40" aria-label="Appwrite"/>
+</a>
+<a href="https://appwrite.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://appwrite.io/images/logo-dark.svg" alt="Appwrite Logo" width="40" height="40" style="border-radius: 50%;"/>
+</a>
+
