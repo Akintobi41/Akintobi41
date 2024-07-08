@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **CSS, JavaScript or React,etc.**
+- 💬 Ask me about **JavaScript or React,etc.**
 
 - 📫 How to reach me **akintobi41moyinoluwa@gmail.com**
 
