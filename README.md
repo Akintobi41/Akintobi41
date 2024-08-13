@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zeke_aa" target="blank"><img src="https://img.shields.io/twitter/follow/zeke_aa?logo=twitter&style=for-the-badge" alt="zeke_aa" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 💬 Ask me about **JavaScript or React,etc.**
 
