@@ -50,5 +50,9 @@
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
   <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" width="40" height="40"/>
 </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.5d2700c5.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+
 
 
