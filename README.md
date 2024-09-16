@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akin</h1>
-<h3 align="center">A Frontend Developer from Lagos, Nigeria.</h3>
+<h3 align="center">Frontend Developer | Building Fast, Responsive Web Apps.</h3>
 
-<p align="left"> <a href="https://twitter.com/zeke_aa" target="blank"><img src="https://img.shields.io/twitter/follow/zeke_aa?logo=twitter&style=for-the-badge" alt="zeke_aa" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/moyinoluwa-akintobi-83a743187" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a> 
+</p>
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
@@ -45,14 +49,15 @@
   <img src="https://www.typescriptlang.org/icons/icon-48x48.png" alt="TypeScript" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
 </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
   <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" width="40" height="40"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.5d2700c5.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a>
 
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
 
 
