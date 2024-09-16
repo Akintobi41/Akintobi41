@@ -41,4 +41,14 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.typescriptlang.org/icons/icon-48x48.png" alt="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" width="40" height="40"/>
+</a>
+
 
